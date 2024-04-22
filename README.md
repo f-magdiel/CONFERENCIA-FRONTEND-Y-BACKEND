@@ -1,2 +1,3 @@
-# CONFERENCIA-FRONTEND-Y-BACKEND
-CONFERENCIA IMPARTIDA EN EL CURSO DE IPC2
+# CONFERENCIA 
+Creando un Frontend y Backend con React, Python y Flask
+Curso: Introducción a la Programación 2 IPC
